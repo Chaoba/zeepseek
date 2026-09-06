@@ -5,29 +5,19 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: September 5, 2026
+Last updated: September 6, 2026
 
 ZipPeek is a local archive browser. It does not collect, store, or transmit the contents of your archives.
 
-## Crash reporting
+# Data collection
 
-To help us diagnose and fix crashes, ZipPeek may collect limited diagnostic data when a crash occurs, including:
+ZipPeek does not include third-party analytics, advertising, or crash-reporting services. ZipPeek does not independently collect or transmit crash reports, usage data, device information, or personal information.
 
-- Crash logs and stack traces
-- App version and macOS version
-- Device model, such as the Mac model identifier
+# Archive processing
 
-This data is used solely to identify and fix defects. It does not include your files, the contents of any archive you open, or any personal information.
+Archive contents are processed locally on your Mac. Files are read only when you select them through macOS or open an archive, and are not uploaded to a server.
 
-When diagnostic collection is enabled, the data is processed as follows:
-
-- It is not linked to your identity
-- It is not used for advertising or tracking
-- It is retained only as long as needed to resolve issues
-
-## Your choices
-
-You can turn off crash reporting at any time in the app's settings. Diagnostic data is collected only when you have enabled it.
+Apple may provide crash reports through App Store Connect when a user has chosen to share diagnostic data with developers. These reports are provided by Apple and are not independently collected or transmitted by ZipPeek.
 
 ## Contact
 
